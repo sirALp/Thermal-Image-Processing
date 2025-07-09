@@ -7,7 +7,7 @@ For educational purposes (restrictions, per se) as it stands,  I can not share t
 
 # Example Images (for all the examples please refer to the Makale.pdf)
 
-![Input](./images/example_input.png)
+![Input](./images/example_input.jpg)
 ![Output](./images/example_output.png)
 
 
