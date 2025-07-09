@@ -1,8 +1,15 @@
 # Thermal-Image-Processing
-This is a project done in the context of a Semester Project in Yildiz Technical University. The project details can be found in the details
+This is a project done in the context of a Semester Project in Yildiz Technical University. The project details can be found in the details.
+Main objective is to compare AI models on thermal image processing based on their structure. Transformer based vs. YOLO
 
 # Disclaimer
 For educational purposes (restrictions, per se) as it stands,  I can not share the database's link. Please contact me to acquire the datas, via: tekinalperen017@gmail.com. 
+
+# Example Images (for all the examples please refer to the Makale.pdf)
+
+![Input](./images/example_input.png)
+![Output](./images/example_output.png)
+
 
 ## Requirements
 IDE: VSCode (or any Python environment)
